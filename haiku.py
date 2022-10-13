@@ -1,17 +1,17 @@
 
 
 #plak hier de haiku functions onder elkaar
-def HaikuX(): 
+def Haiku1(): 
     print("haiku by:","AUTHOR") 
     print("REGEL1") 
     print("REGEL2") 
     print("REGEL3")
-def HaikuX(): 
+def Haiku2(): 
     print("haiku by:","AUTHOR") 
     print("REGEL1") 
     print("REGEL2") 
     print("REGEL3")
-def HaikuX(): 
+def Haiku3(): 
      print("haiku by:","AUTHOR") 
      print("REGEL1") 
      print("REGEL2") 
