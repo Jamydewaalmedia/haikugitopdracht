@@ -9,16 +9,24 @@ def Haiku1():
     print("As one who loved poetry") 
     sleep(1)
     print("And persimmons.")
+    sleep(1)
 def Haiku2(): 
     print("haiku by:","Masaoka Shiki") 
+    sleep(1)
     print("My life") 
+    sleep(1)
     print("How much more of it remains?") 
+    sleep(1)
     print("The night is brief")
+    sleep(1)
 def Haiku3(): 
-     print("haiku by:","AUTHOR") 
-     print("REGEL1") 
-     print("REGEL2") 
-     print("REGEL3")
+     print("haiku by:","Masaoka Shiki") 
+     sleep(1)
+     print("Toward those short trees") 
+     sleep(1)
+     print("We saw a hawk descending") 
+     sleep(1)
+     print("On a day in spring.")
 
 
 
