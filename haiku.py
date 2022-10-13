@@ -10,6 +10,7 @@ def Haiku1():
     sleep(1)
     print("And persimmons.")
     sleep(1)
+    print(" ")
 def Haiku2(): 
     print("haiku by:","Masaoka Shiki") 
     sleep(1)
@@ -19,6 +20,7 @@ def Haiku2():
     sleep(1)
     print("The night is brief")
     sleep(1)
+    print(" ")
 def Haiku3(): 
      print("haiku by:","Masaoka Shiki") 
      sleep(1)
@@ -27,6 +29,7 @@ def Haiku3():
      print("We saw a hawk descending") 
      sleep(1)
      print("On a day in spring.")
+     sleep(2)
 
 
 
